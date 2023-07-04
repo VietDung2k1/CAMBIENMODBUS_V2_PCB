@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=cambienmodbus.SchDoc
+Record=SheetSymbol|SourceDocument=cambienmodbus.SchDoc|Designator=U_power3v3|SchDesignator=U_power3v3|FileName=power3v3.SchDoc|SymbolType=Normal|RawFileName=power3v3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=cambienmodbus.SchDoc|Designator=U_rs485|SchDesignator=U_rs485|FileName=rs485.SchDoc|SymbolType=Normal|RawFileName=rs485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
